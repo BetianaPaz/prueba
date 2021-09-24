@@ -1,0 +1,49 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    /* background: tomato; */
+    /* background-image: url(https://estaticos-cdn.sport.es/clip/5faee0aa-0ccb-49c2-b85a-509216b2183a_media-libre-aspect-ratio_default_0.jpg); */
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+#contenedor{
+    background: white;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+.cabecera{
+    border: dashed 2px red;
+}
+
+.titulo{
+    text-align: center;
+    color: aqua;
+}
+
+.contenido{
+    text-align: justify;
+}
+
+.destacado{
+    color: tomato;
+    font-size: 2rem;
+}
+
+.tercerparrafo{
+    background: yellow;
+}
+.pie{
+    border-top: 2px solid black;
+    text-align: end;
+}
